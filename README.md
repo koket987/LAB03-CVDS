@@ -230,6 +230,9 @@ public class Registry {
         return RegisterResult.VALID;
     }
 }
+
+![MicrosoftTeams-image (11)](https://github.com/koket987/LAB03-CVDS/assets/97971883/488355e8-7830-4b00-b6d7-82a634c1c956)
+
 ```
 
 Cree la misma estructura de paquetes `edu.eci.cvds.tdd.registry` en la ruta `src/test/java`. Todos los archivos relacionados específicamente con los temas de pruebas, siempre deben ir bajo la carpeta `test`.
