@@ -283,6 +283,18 @@ Complete la implementación de la clase `RegistryTest.java` con (al menos) un m�
 
 Complete la implementación del método `registerVoter` en la clase `Registry.java` para retornar el resultado esperado según la entrada.
 
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/6f998729-d655-42f4-a0b8-0534f899717c)
+
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/6fc92495-5b66-4fca-bb47-8c1e9288df68)
+
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/5151d1c6-4596-42b9-abc0-493e04de7e8f)
+
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/99eb43a5-1e30-4749-9a52-251d9c60c649)
+
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/e4f51679-1910-467d-ae06-b2d370acd464)
+
+
+
 ## EJERCICIO "DESCUENTO DE TARIFAS"
 
 ### REALIZAR DISEÑO DE PRUEBAS
