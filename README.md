@@ -300,7 +300,7 @@ Complete la implementación del método `registerVoter` en la clase `Registry.ja
 ### REALIZAR DISEÑO DE PRUEBAS
 Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el siguiente [documento](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/142929/mod_assign/intro/EjercicioClasesEquivalencia.pdf).
 
-![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/6f46d057-d242-485c-b1e8-5b93f5bd2af7)
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/5b10ff12-fa3d-4f31-9e70-f565f563bf56)
 
 
 
