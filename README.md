@@ -263,6 +263,8 @@ Para correr las pruebas utilice:
 ```sh
 $ mvn package
 ```
+![MicrosoftTeams-image (12)](https://github.com/koket987/LAB03-CVDS/assets/97971883/93fd68f3-dc39-498d-adc3-4471f47fc677)
+
 También puede utilizar:
 ```sh
 $ mvn test
