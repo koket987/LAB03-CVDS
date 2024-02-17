@@ -300,6 +300,10 @@ Complete la implementación del método `registerVoter` en la clase `Registry.ja
 ### REALIZAR DISEÑO DE PRUEBAS
 Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el siguiente [documento](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/142929/mod_assign/intro/EjercicioClasesEquivalencia.pdf).
 
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/6f46d057-d242-485c-b1e8-5b93f5bd2af7)
+
+
+
 ### IMPLEMENTACIÓN DE LAS PRUEBAS
 Descargue el archivo [`aerodescuentos.jar`](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/142929/mod_assign/intro/aerodescuentos-1.0.0.jar) y adicione esta nueva dependencia en el archivo `pom.xml` de su proyecto.
 
