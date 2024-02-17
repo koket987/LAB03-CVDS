@@ -303,10 +303,14 @@ Para realizar de forma correcta el diseño de sus pruebas responda las preguntas
 ### IMPLEMENTACIÓN DE LAS PRUEBAS
 Descargue el archivo [`aerodescuentos.jar`](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/142929/mod_assign/intro/aerodescuentos-1.0.0.jar) y adicione esta nueva dependencia en el archivo `pom.xml` de su proyecto.
 
+![MicrosoftTeams-image (16)](https://github.com/koket987/LAB03-CVDS/assets/97971883/d4b1d337-9778-4b5b-ac76-32a6112548a8)
+
 Para adicionar una librería personalizada al repositorio local de maven puede ejecutar el siguiente comando.
 ```sh
 $ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvds -DartifactId=aerodescuentos -Dversion=1.0.0 -Dpackaging=jar
 ```
+
+![MicrosoftTeams-image (17)](https://github.com/koket987/LAB03-CVDS/assets/97971883/0862fb75-f3e5-4fe5-a4b4-fdcc4c486a58)
 
 Cree el archivo `TarifasTest.java` en el directorio `src/test/java/edu/eci/cvds/tdd/aerodescuentos`.
 
