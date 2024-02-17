@@ -44,6 +44,8 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
 </properties>
 ```
 
+
+
 ### COMPILAR Y EJECUTAR
 Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
 
