@@ -269,6 +269,11 @@ También puede utilizar:
 ```sh
 $ mvn test
 ```
+![MicrosoftTeams-image (13)](https://github.com/koket987/LAB03-CVDS/assets/97971883/31a86611-3924-41f4-8915-10389fed2d8b)
+
+![MicrosoftTeams-image (14)](https://github.com/koket987/LAB03-CVDS/assets/97971883/61f220a3-4901-4904-a928-90475a084759)
+
+
 Revise cual es la diferencia. Tip: https://www.devopsschool.com/blog/maven-tutorials-maven-lifecycle-phases-goal
 
 ### FINALIZAR EL EJERCICIO
