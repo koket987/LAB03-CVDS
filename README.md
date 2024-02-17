@@ -18,7 +18,7 @@ archetypeArtifactId: maven-archetype-quickstart
 
 ![MicrosoftTeams-image (5)](https://github.com/koket987/LAB03-CVDS/assets/97971883/23ce4aef-95e2-445b-b151-9cd7877f0ccf)
 
-![MicrosoftTeams-image (5)](https://github.com/koket987/LAB03-CVDS/assets/97971883/b17e0d5b-c2cd-4701-9aba-f0340cbda27a)
+![MicrosoftTeams-image (6)](https://github.com/koket987/LAB03-CVDS/assets/97971883/208b6bfc-2d51-4377-adab-f625aaf9f895)
 
 
 
