@@ -16,6 +16,7 @@ archetypeArtifactId: maven-archetype-quickstart
 
 ![MicrosoftTeams-image (4)](https://github.com/koket987/LAB03-CVDS/assets/97971883/3e6abb85-4733-4570-8f1f-18d7bb570a76)
 
+![MicrosoftTeams-image (5)](https://github.com/koket987/LAB03-CVDS/assets/97971883/23ce4aef-95e2-445b-b151-9cd7877f0ccf)
 
 ### ACTUALIZAR Y CREAR DEPENDENCIAS EN EL PROYECTO
 
