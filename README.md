@@ -11,11 +11,11 @@ Paquete (package): edu.eci.cvds.tdd
 archetypeArtifactId: maven-archetype-quickstart
 ```
 
-```yml
+
 ![MicrosoftTeams-image (3)](https://github.com/koket987/LAB03-CVDS/assets/97971883/bb3823b9-6bd7-4eef-a835-ecc66d86b46f)
 
 ![MicrosoftTeams-image (4)](https://github.com/koket987/LAB03-CVDS/assets/97971883/3e6abb85-4733-4570-8f1f-18d7bb570a76)
-```
+
 
 ### ACTUALIZAR Y CREAR DEPENDENCIAS EN EL PROYECTO
 
