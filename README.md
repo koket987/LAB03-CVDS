@@ -45,6 +45,7 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
 ```
 
 
+![MicrosoftTeams-image (10)](https://github.com/koket987/LAB03-CVDS/assets/97971883/f2ef2d32-51b2-4578-8ce2-084e3761d336)
 
 ### COMPILAR Y EJECUTAR
 Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
