@@ -18,9 +18,7 @@ archetypeArtifactId: maven-archetype-quickstart
 
 ![MicrosoftTeams-image (5)](https://github.com/koket987/LAB03-CVDS/assets/97971883/23ce4aef-95e2-445b-b151-9cd7877f0ccf)
 
-![MicrosoftTeams-image (6)](https://github.com/koket987/LAB03-CVDS/assets/97971883/208b6bfc-2d51-4377-adab-f625aaf9f895)
 
-![MicrosoftTeams-image (8)](https://github.com/koket987/LAB03-CVDS/assets/97971883/27548830-98fe-42e6-9948-4fde2af50234)
 
 
 
@@ -51,6 +49,10 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
 Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
 
 Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado exitoso.
+
+![MicrosoftTeams-image (6)](https://github.com/koket987/LAB03-CVDS/assets/97971883/208b6bfc-2d51-4377-adab-f625aaf9f895)
+
+![MicrosoftTeams-image (8)](https://github.com/koket987/LAB03-CVDS/assets/97971883/27548830-98fe-42e6-9948-4fde2af50234)
 
 ## EJERCICIO “REGISTRADURÍA”
 Se va a crear un proyecto base para un cliente en la registraduría, en el cual se registrarán personas con intención de votar para las próximas
