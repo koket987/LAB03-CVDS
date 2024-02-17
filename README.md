@@ -11,6 +11,8 @@ Paquete (package): edu.eci.cvds.tdd
 archetypeArtifactId: maven-archetype-quickstart
 ```
 
+![MicrosoftTeams-image (3)](https://github.com/koket987/LAB03-CVDS/assets/97971883/bb3823b9-6bd7-4eef-a835-ecc66d86b46f)
+
 ### ACTUALIZAR Y CREAR DEPENDENCIAS EN EL PROYECTO
 
 Busque en internet el repositorio central de maven.
