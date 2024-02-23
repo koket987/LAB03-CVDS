@@ -10,6 +10,8 @@ Artefacto (artifactId): ClasesEquivalencia
 Paquete (package): edu.eci.cvds.tdd
 archetypeArtifactId: maven-archetype-quickstart
 ```
+![image](https://github.com/koket987/LAB03-CVDS/assets/97971883/1d37d804-2e6d-41d6-8fe1-219ba0c7faa2)
+
 
 
 ![MicrosoftTeams-image (3)](https://github.com/koket987/LAB03-CVDS/assets/97971883/bb3823b9-6bd7-4eef-a835-ecc66d86b46f)
